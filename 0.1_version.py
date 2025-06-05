@@ -11,6 +11,5 @@ if opp == "2":
     print(x-y);
 if opp =="4":
     print(x/y)
-    if float(y=0):
-        print("infinity");
+    
 
